@@ -1,12 +1,13 @@
 import React from 'react';
 
+
 const Landing = () => {
   return (
     <div style={{ textAlign: 'center' }}>
       <h1>
-        Emaily!
+        Welcome to Survey 365!
       </h1>
-      Collect feedback form your users
+      <h5>Collect feedback from your users!</h5>
     </div>
   );
 };
